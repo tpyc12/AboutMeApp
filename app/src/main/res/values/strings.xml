@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About me app</string>
+    <string name="my_name">Paul Tsynkevich</string>
+    <string name="description">Привет, меня зовут Павел. Мне 30 лет. Я белорус.
+        Люблю кушать и готовить кушать. Пишу код. Это мое приложение описание меня.
+    </string>
+    <string name="nickname">NickName</string>
+    <string name="button_text">Done</string>
+
+
+</resources>
